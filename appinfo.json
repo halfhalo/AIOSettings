@@ -1,0 +1,11 @@
+
+{
+  "id": "com.palm.app.aios",
+  "version": "0.9.4.1",
+  "vendor": "Choorp Studios",
+  "type": "web",
+  "main": "index.html",
+  "title": "AIOSettings",
+  "icon": "icon.png",
+  "uiRevision": "2"
+}
